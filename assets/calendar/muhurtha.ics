@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gruha Pravesha Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:muhurtha-20261119T230000Z@gruha-pravesha
+DTSTAMP:20261119T230000Z
+DTSTART:20261119T230000Z
+DTEND:20261120T004500Z
+SUMMARY:Gruha Pravesha Muhurtha — Suma Neelaya
+DESCRIPTION:Gruha Pravesha of "Suma Neelaya"\nHosted by Smt. Sundaramma & Sri Revannaswamy\n\nDirections: https://www.google.com/maps/dir/?api=1&destination=12.80856\,76.231682
+LOCATION:Suma Neelaya\, Kadavina Kote Badavane\, Hassan Road\, Holenarasipura Taluk\, Hassan District\, Karnataka
+GEO:12.80856;76.231682
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Gruha Pravesha Muhurtha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:In 1 hour: Gruha Pravesha Muhurtha
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gruha Pravesha Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:pooja-20261120T033000Z@gruha-pravesha
+DTSTAMP:20261120T033000Z
+DTSTART:20261120T033000Z
+DTEND:20261120T043000Z
+SUMMARY:Lakshmi Pooja — Suma Neelaya
+DESCRIPTION:Gruha Pravesha of "Suma Neelaya"\nHosted by Smt. Sundaramma & Sri Revannaswamy\n\nDirections: https://www.google.com/maps/dir/?api=1&destination=12.80856\,76.231682
+LOCATION:Suma Neelaya\, Kadavina Kote Badavane\, Hassan Road\, Holenarasipura Taluk\, Hassan District\, Karnataka
+GEO:12.80856;76.231682
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Lakshmi Pooja
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:In 1 hour: Lakshmi Pooja
+END:VALARM
+END:VEVENT
+END:VCALENDAR
